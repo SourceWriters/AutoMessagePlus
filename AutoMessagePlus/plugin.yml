@@ -1,0 +1,8 @@
+name: AutoMessagePlus
+author: YellowPhoenix18
+version: 1.0
+
+main: de.yellowphoenix18.automessageplus.AutoMessagePlus
+
+commands:
+   amp:
